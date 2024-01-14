@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-01-07 14:36:28",
+    "updateTime": "2024-01-14 16:42:04",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -9,10 +9,10 @@
     ],
     "sites": [
         {
-            "key": "2d50e74976a7802fd673d75738bce50e",
-            "name": "①1080",
+            "key": "7b1d09368af7a13806e1a8e1e43850e5",
+            "name": "①非凡",
             "type": 1,
-            "api": "https://api.1080zyku.com/inc/apijson.php"
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "c8af26ef0238ad65540ef8c8a2a1d738",
@@ -21,267 +21,135 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/"
         },
         {
+            "key": "2d50e74976a7802fd673d75738bce50e",
+            "name": "③1080",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/apijson.php"
+        },
+        {
             "key": "e9857f1b117dc5c1e4750bcc36da6e35",
-            "name": "③阿里",
+            "name": "④阿里",
             "type": 1,
             "api": "http://aliys.cn:90/api.php/provide/vod/"
         },
         {
             "key": "1a05b72ecc4cb6326f046a5585f3432b",
-            "name": "④卧龙",
+            "name": "⑤卧龙",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
         },
         {
-            "key": "24963d347905c8866d5b5af6785692eb",
-            "name": "⑤快车",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "2e09f5d3c72313bd3841890000f5d6c5",
-            "name": "⑥八戒",
-            "type": 1,
-            "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
-        },
-        {
-            "key": "3a565658ffb7ec926e61756240866e64",
-            "name": "⑦无尽",
-            "type": 1,
-            "api": "https://api.wujinapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "6b89937eff774fdb0533180727011b38",
-            "name": "⑧U酷",
-            "type": 1,
-            "api": "https://api.ukuapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "740e5d81e28de3ab97eab19f0ce6cf1d",
-            "name": "⑨暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "7ced0073619101d397b5c86fc3578ed4",
-            "name": "⑩火狐",
+            "name": "⑥火狐",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "8ce56231ef914542758a0991effad996",
-            "name": "⑪享看",
+            "name": "⑦享看",
             "type": 1,
             "api": "https://xkanzy10.com/api.php/provide/vod/"
         },
         {
             "key": "a31ffacb5ccc0e8d3f073b488fe7a9f6",
-            "name": "⑫虎牙",
+            "name": "⑧虎牙",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/"
         },
         {
-            "key": "b76a940e9785b5348840472552e70374",
-            "name": "⑬红牛",
-            "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
-        },
-        {
-            "key": "bfe3ee93fb2c0bfe6371e81055b6beb9",
-            "name": "⑭光速",
-            "type": 1,
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "cb518dc9e8d1304c63db830c8211b7be",
-            "name": "⑮极光",
-            "type": 1,
-            "api": "https://jiguang.la/api.php/provide/vod/"
-        },
-        {
-            "key": "d02fbc5be39db7a021839dcb7bf44783",
-            "name": "⑯飘花",
-            "type": 1,
-            "api": "http://www.ahjiuman.com/api.php/provide/vod/"
-        },
-        {
-            "key": "ef763a837d779012d8451f816f881188",
-            "name": "⑰百度",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/"
-        },
-        {
             "key": "f23b71d83be4dc05a3113596e482d0f4",
-            "name": "⑱飞速",
+            "name": "⑨飞速",
             "type": 1,
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/"
         },
         {
-            "key": "f392a6508debf453628b2713b0ee0a47",
-            "name": "⑲樱花",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
-        },
-        {
             "key": "ffbd9b462e2a953e04e79add6b95fb19",
-            "name": "⑳新浪",
+            "name": "⑩新浪",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
         },
         {
-            "key": "de35b0afa75598ab506891123e6d8cb8",
-            "name": "㉑索尼",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "4ea10b6dc7a05158fcb9978ad7a947a0",
-            "name": "㉒每天",
+            "name": "⑪每天",
             "type": 1,
             "api": "http://47.113.126.237:1234/api.php/provide/vod/"
         },
         {
             "key": "1518f801bfb34e5599614d0a176e46f9",
-            "name": "㉓️企鹅 ",
+            "name": "⑫️企鹅 ",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
             "playUrl": "https://jxdp.codermart.net/?url="
         },
         {
-            "key": "2dd5e72a47cf77c29ecd1080ef097169",
-            "name": "㉔简简",
-            "type": 1,
-            "api": "https://www.xy1080.net/api.php/provide/vod/"
-        },
-        {
-            "key": "4522a9bee637912b39876407dd4ba81e",
-            "name": "㉕光速",
-            "type": 1,
-            "api": "http://api.guangsuapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "559bf3ff82cf7be4b00328130c8e5262",
-            "name": "㉖万达",
-            "type": 1,
-            "api": "http://www.duse.pro//api.php/provide/vod/"
-        },
-        {
-            "key": "7b1d09368af7a13806e1a8e1e43850e5",
-            "name": "㉗非凡",
-            "type": 1,
-            "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "ab3bf9fa62999ca7507b351526c2feed",
-            "name": "㉘暴风",
-            "type": 1,
-            "api": "https://app.bfzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "d5de624731e7f06762080d1275022ab8",
-            "name": "㉙双双",
-            "type": 1,
-            "api": "http://cj.md214.cn/api.php/provide/vod/"
-        },
-        {
-            "key": "ff4cf4c30f7471e440d0d870e560b2d4",
-            "name": "㉚鱼乐",
-            "type": 1,
-            "api": "https://api.ylzy.me/api.php/provide/vod/"
-        },
-        {
-            "key": "06fdd171f4a96048cf4963e595b004e9",
-            "name": "㉛华为",
-            "type": 1,
-            "api": "https://hw8.live/api.php/provide/vod/"
-        },
-        {
-            "key": "16e670f12295e9e8ebc97f480d112414",
-            "name": "㉜夸克",
-            "type": 1,
-            "api": "http://kuakezy1.com/api.php/provide/vod/"
-        },
-        {
-            "key": "28b71138ccfa2bab7197a504988e93ae",
-            "name": "㉝49",
-            "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/"
-        },
-        {
             "key": "31597ad10cc5a818d578b91694259fe9",
-            "name": "㉞飘零",
+            "name": "⑬飘零",
             "type": 0,
             "api": "https://p2100.net/api.php/provide/vod/at/xml"
         },
         {
-            "key": "3bcf7fb89aa2f68696aeae9bab366739",
-            "name": "㉟四圈",
+            "key": "559bf3ff82cf7be4b00328130c8e5262",
+            "name": "⑭万达",
             "type": 1,
-            "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
-        },
-        {
-            "key": "7f9b6dc92bff268b9269c0d2ac92a22e",
-            "name": "㊱可可",
-            "type": 1,
-            "api": "https://caiji.kekezyapi.com/api.php/provide/vod/"
+            "api": "http://www.duse.pro//api.php/provide/vod/"
         },
         {
             "key": "9700974b6464d2f0227d0f6abca45419",
-            "name": "㊲42",
+            "name": "⑮42",
             "type": 0,
             "api": "https://www.42.la/api.php/provide/vod/at/xml"
         },
         {
-            "key": "a93e240b86b123b432b61db56896f703",
-            "name": "㊳速博",
-            "type": 1,
-            "api": "https://subocaiji.com/api.php/provide/vod/"
-        },
-        {
-            "key": "cdc25e368870d416a57c277767e084e0",
-            "name": "㊴至圣",
-            "type": 1,
-            "api": "http://82.156.40.118:1234/api.php/provide/vod/"
-        },
-        {
-            "key": "d76e6a4dd10a8e038439df2458b56e9d",
-            "name": "㊵极速",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "e173267b0d7e1f1a1189c22c3bb7b556",
-            "name": "㊶淘片",
+            "name": "⑯淘片",
             "type": 0,
             "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
         },
         {
-            "key": "e750d6da567daae09c179aec32891d63",
-            "name": "㊷最大",
-            "type": 1,
-            "api": "https://api.zuidapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "eb5ea47565fd52372945b59cb5302f75",
-            "name": "㊸快云",
+            "name": "⑰快云",
             "type": 0,
             "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "f4703484b4963fcb1ceffd5275754f47",
-            "name": "㊹6U",
+            "name": "⑱6U",
             "type": 0,
             "api": "http://www.6uzy.cc/inc/api.php"
         },
         {
-            "key": "a3be390b493dc81a93ea8f2b4759666c",
-            "name": "㊺快看",
+            "key": "28b71138ccfa2bab7197a504988e93ae",
+            "name": "⑲49",
             "type": 1,
-            "api": "https://kuaikan-api.com/api.php/provide/vod/"
+            "api": "https://49zyw.com/api.php/provide/vod/"
+        },
+        {
+            "key": "3bcf7fb89aa2f68696aeae9bab366739",
+            "name": "⑳四圈",
+            "type": 1,
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+        },
+        {
+            "key": "a93e240b86b123b432b61db56896f703",
+            "name": "㉑速博",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod/"
+        },
+        {
+            "key": "cdc25e368870d416a57c277767e084e0",
+            "name": "㉒至圣",
+            "type": 1,
+            "api": "http://82.156.40.118:1234/api.php/provide/vod/"
+        },
+        {
+            "key": "d76e6a4dd10a8e038439df2458b56e9d",
+            "name": "㉓极速",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/"
         },
         {
             "key": "1da07dd492485c3c8a9eb089cd9e943a",
-            "name": "㊻天空",
+            "name": "㉔天空",
             "type": 1,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/"
         }
@@ -334,8 +202,7 @@
                     "name": "内蒙古卫视",
                     "tvg_name": "内蒙古卫视",
                     "urls": [
-                        "http://111.59.63.32:9901/tsfile/live/1038_1.m3u8",
-                        "http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi"
+                        "http://111.59.63.32:9901/tsfile/live/1038_1.m3u8"
                     ]
                 },
                 {
@@ -369,12 +236,6 @@
                         "http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3",
                         "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "大湾区卫视",
-                    "urls": [
-                        "http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi"
                     ]
                 },
                 {
@@ -456,13 +317,6 @@
                     ]
                 },
                 {
-                    "name": "康巴卫视",
-                    "tvg_name": "康巴卫视",
-                    "urls": [
-                        "http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi"
-                    ]
-                },
-                {
                     "name": "延边卫视",
                     "tvg_name": "延边卫视",
                     "urls": [
@@ -510,8 +364,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
                         "http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3",
                         "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8",
-                        "https://epg.pw/stream/203dc835d668d20a2134e8c39ce5d60da0a33259c9c24ae1b9a63a0d30f8c879.m3u8",
-                        "https://epg.pw/stream/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd6ee5cc9b490.ctv"
+                        "https://epg.pw/stream/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd6ee5cc9b490.ctv",
+                        "http://115.149.139.141:10001/tsfile/live/1033_1.m3u8"
                     ]
                 },
                 {
@@ -585,7 +439,6 @@
                     "tvg_name": "甘肃卫视",
                     "urls": [
                         "http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3",
-                        "https://epg.pw/stream/167f479548d71f40a3fb773f473e8392d0627142aeab85af8efec2a46412c53c.ctv",
                         "https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000"
                     ]
                 },
@@ -613,9 +466,9 @@
                     "urls": [
                         "http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3",
                         "https://epg.pw/stream/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.m3u8",
-                        "https://epg.pw/stream/5d672542fbccff19867bb049ea0609a70ccbf361934861011747fc696a96474a.m3u8",
-                        "https://epg.pw/stream/a1854f3699bef0e1ab54ecd6ab61aa80b4913aff2c259de52563e4cc5fea61cf.m3u8",
-                        "https://epg.pw/stream/704a9491a7f38d34ba7c2ac41edd891fe149181080d396d03a5293648353492c.m3u8"
+                        "https://epg.pw/stream/704a9491a7f38d34ba7c2ac41edd891fe149181080d396d03a5293648353492c.m3u8",
+                        "https://epg.pw/stream/bb2a5ce2a93b8b1eb36573d3b59ec54e83fd86b77c9bcd464e532665f5044b33.ctv",
+                        "http://115.149.139.141:10001/tsfile/live/1028_1.m3u8"
                     ]
                 },
                 {
@@ -672,10 +525,10 @@
                     "tvg_name": "CCTV11",
                     "urls": [
                         "https://epg.pw/stream/06a550aef56b73393aa133292ab85e5b3d8bb25c9cd333708c727443341a4af4.m3u8",
-                        "http://8.210.232.168/php/migu.php?id=cctv11",
                         "http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8",
                         "http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8"
+                        "http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8",
+                        "http://39.135.135.88:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8"
                     ]
                 },
                 {
@@ -988,18 +841,12 @@
                     ]
                 },
                 {
-                    "name": "无线新闻台",
-                    "tvg_name": "无线新闻",
-                    "urls": [
-                        "https://epg.pw/stream/ccb9113b6a43c458509096f0d65129eae5134c2a328645cb7d3b0c39ceb3d2ff.ctv"
-                    ]
-                },
-                {
                     "name": "有线新闻",
                     "urls": [
                         "https://epg.pw/stream/e398ed5f950292af91ffade46e0e7738d19884bad252df0c4674d65102875157.ctv",
                         "https://epg.pw/stream/9658f6fb7b9dd7b6d50d445a43a37c868d33e045c1081dc32c03b71c60d839fe.m3u8",
-                        "https://epg.pw/stream/3017ea903ce20f83c36277d939847afffbdd0a4fa26eb90c0b8e801cca8c46b3.m3u8"
+                        "https://epg.pw/stream/3017ea903ce20f83c36277d939847afffbdd0a4fa26eb90c0b8e801cca8c46b3.m3u8",
+                        "http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8"
                     ]
                 },
                 {
@@ -1117,7 +964,6 @@
                 {
                     "name": "香港佛陀",
                     "urls": [
-                        "http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8",
                         "https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8"
                     ]
                 },
@@ -1136,7 +982,6 @@
                     "name": "CHC动作电影",
                     "tvg_name": "CHC动作电影",
                     "urls": [
-                        "http://111.20.45.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8",
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8",
                         "https://epg.pw/stream/9f00fc4985b9fc052c04cbf5bc06476c6d12553d683786b8b172d1642332ec1c.m3u8",
                         "https://epg.pw/stream/0f63565e62aa80f7239ee3a1920efc364cecb621a534e7406e2cd8f3a7d2bd22.m3u8"
@@ -1146,18 +991,14 @@
                     "name": "CHC家庭影院",
                     "tvg_name": "CHC家庭影院",
                     "urls": [
-                        "http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
-                        "https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8",
-                        "http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com"
+                        "https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8"
                     ]
                 },
                 {
                     "name": "CHC高清电影",
                     "tvg_name": "CHC高清电影",
                     "urls": [
-                        "http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
-                        "http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8",
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
                         "https://epg.pw/stream/d4703859b24d2e5efe98e722405d110e11df64ac629948839da9e86649648465.m3u8",
                         "https://epg.pw/stream/968e9fed9676f8e2b7538c5a17dc32613bc1413c255c3c7f0bd04ee9f803a563.m3u8"
@@ -2045,6 +1886,7 @@
         "daoqitixing.m3u8",
         "fangdao",
         "fca02fec-85cc-4c03-91f9-29e5957c18c4.mp4",
+        "fd.m3u8",
         "feiyun.m3u8",
         "https://1231231/",
         "https://api.nxflv.com/Cache/M3u8/",
