@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-01-14 16:42:04",
+    "updateTime": "2024-01-24 17:17:24",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -159,14 +159,22 @@
             "group": "卫视",
             "channels": [
                 {
+                    "name": "三沙卫视",
+                    "tvg_name": "三沙卫视",
+                    "urls": [
+                        "https://epg.pw/stream/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.m3u8",
+                        "https://live.goodiptv.club/api/ghyx.php?id=SanShaHD2_6000"
+                    ]
+                },
+                {
                     "name": "东南卫视",
                     "tvg_name": "东南卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
-                        "http://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8",
-                        "http://39.134.65.179/PLTV/88888888/224/3221225672/index.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225672/index.m3u8",
-                        "http://39.134.65.175/PLTV/88888888/224/3221225672/index.m3u8"
+                        "http://39.134.66.4/PLTV/88888888/224/3221225950/index.m3u8",
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3",
+                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
+                        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8"
                     ]
                 },
                 {
@@ -184,11 +192,11 @@
                     "name": "云南卫视",
                     "tvg_name": "云南卫视",
                     "urls": [
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1580749819_-793400395/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1668600670&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3",
                         "http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8",
                         "https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8",
                         "https://epg.pw/stream/f72d8c76d15c9cf3efe23af82179802a374d97971eb4f87a304f1db28cbc482b.ctv",
-                        "https://epg.pw/stream/9ec5350e6d4fc8fa0d020c7ec6b3382fa83ccfe40cb5d71cc89cf2505e81bb95.m3u8",
-                        "https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000"
+                        "https://epg.pw/stream/9ec5350e6d4fc8fa0d020c7ec6b3382fa83ccfe40cb5d71cc89cf2505e81bb95.m3u8"
                     ]
                 },
                 {
@@ -312,8 +320,8 @@
                         "http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3",
                         "http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8",
                         "http://111.59.63.32:9901/tsfile/live/1003_1.m3u8",
-                        "http://115.149.139.141:10001/tsfile/live/1037_1.m3u8",
-                        "https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000"
+                        "https://epg.pw/stream/08ad32ed40231dd087aa1751355dfcd648178ad2e73f25f678f389845e836371.m3u8",
+                        "https://epg.pw/stream/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.m3u8"
                     ]
                 },
                 {
@@ -331,6 +339,7 @@
                     "tvg_name": "新疆卫视",
                     "urls": [
                         "http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3",
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8",
                         "https://epg.pw/stream/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8",
                         "http://111.59.63.32:9901/tsfile/live/1039_1.m3u8"
                     ]
@@ -398,7 +407,7 @@
                         "http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568",
                         "http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3",
                         "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8",
-                        "https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000"
+                        "https://epg.pw/stream/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8"
                     ]
                 },
                 {
@@ -468,7 +477,7 @@
                         "https://epg.pw/stream/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.m3u8",
                         "https://epg.pw/stream/704a9491a7f38d34ba7c2ac41edd891fe149181080d396d03a5293648353492c.m3u8",
                         "https://epg.pw/stream/bb2a5ce2a93b8b1eb36573d3b59ec54e83fd86b77c9bcd464e532665f5044b33.ctv",
-                        "http://115.149.139.141:10001/tsfile/live/1028_1.m3u8"
+                        "https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8"
                     ]
                 },
                 {
@@ -525,10 +534,10 @@
                     "tvg_name": "CCTV11",
                     "urls": [
                         "https://epg.pw/stream/06a550aef56b73393aa133292ab85e5b3d8bb25c9cd333708c727443341a4af4.m3u8",
+                        "https://epg.pw/stream/94e9e6e88b70152a93489359eeb955393ef74d1410100db1ebb11657e7c02fd2.m3u8",
                         "http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8",
                         "http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8",
-                        "http://39.135.135.88:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8"
+                        "http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8"
                     ]
                 },
                 {
@@ -715,6 +724,34 @@
                     ]
                 },
                 {
+                    "name": "CCTV第一剧场",
+                    "tvg_name": "第一剧场",
+                    "urls": [
+                        "https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV风云足球",
+                    "tvg_name": "风云足球",
+                    "urls": [
+                        "https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.ctv"
+                    ]
+                },
+                {
+                    "name": "CCTV高尔夫·网球",
+                    "tvg_name": "高尔夫网球",
+                    "urls": [
+                        "https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.ctv"
+                    ]
+                },
+                {
+                    "name": "CETV1",
+                    "tvg_name": "中国教育1台",
+                    "urls": [
+                        "https://live.goodiptv.club/api/ghyx.php?id=CETV1HD_6000"
+                    ]
+                },
+                {
                     "name": "CGTN",
                     "tvg_name": "CGTN",
                     "urls": [
@@ -727,11 +764,9 @@
             "group": "港澳台",
             "channels": [
                 {
-                    "name": "HBO",
-                    "tvg_name": "HBO",
+                    "name": "东森戏剧",
                     "urls": [
-                        "http://208.115.225.174:14165",
-                        "http://208.115.225.174:14160"
+                        "https://epg.pw/stream/b7ad44978dbadf18d361ec718ab5d8f38d6c6e3b19449dfd5df12deaafc44c40.m3u8"
                     ]
                 },
                 {
@@ -753,17 +788,9 @@
                 {
                     "name": "中天亚洲台",
                     "urls": [
-                        "https://epg.pw/stream/f9399410ac42d9b6f9e689fe7dceb72612c447c7770ae3765b1ff3ca97225eb6.ctv",
                         "https://epg.pw/stream/a7d0fb7a555f82006d8561cfdf6bc99bfd306597e9ac3b2cd0354d5e9c82e83b.ctv",
-                        "https://epg.pw/stream/974d48c8a9d61b2de136dfc5f0252e67bfa6938da9218b4694d008512bca09fb.ctv"
-                    ]
-                },
-                {
-                    "name": "中视",
-                    "tvg_name": "中视",
-                    "urls": [
-                        "https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8",
-                        "https://epg.pw/stream/346a2c128979e64cb392ae58a87ca091f9086a97c228d815ab51c6620500a0e4.m3u8"
+                        "https://epg.pw/stream/974d48c8a9d61b2de136dfc5f0252e67bfa6938da9218b4694d008512bca09fb.ctv",
+                        "https://epg.pw/stream/c98e5dc956b929ac90d7caba0f9cbe47460a7ba41ed57040a5d467aa8f67d310.ctv"
                     ]
                 },
                 {
@@ -786,21 +813,6 @@
                     ]
                 },
                 {
-                    "name": "华视",
-                    "tvg_name": "华视",
-                    "urls": [
-                        "https://epg.pw/stream/06d745b63127556d70548c151d221a80931ce9baebd111fc4a978cffcc645a6e.m3u8"
-                    ]
-                },
-                {
-                    "name": "台视",
-                    "tvg_name": "台视",
-                    "urls": [
-                        "https://epg.pw/stream/72a3282a07ff04215b8a652c00535afe30687970814ef95bbc49bb3d61068f89.m3u8",
-                        "https://epg.pw/stream/d683ec1b74bb3cac71e6c52bd56e9e0bc2ce256500de142e9ad3f8c63c680cea.m3u8"
-                    ]
-                },
-                {
                     "name": "台视新闻台",
                     "urls": [
                         "https://epg.pw/stream/5d559e41a19229e46d147a97b49a25b10a9bb4510a8cf693bff187a47b608755.m3u8",
@@ -815,7 +827,8 @@
                         "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
                         "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8",
                         "https://epg.pw/stream/bfc44111d272fefb5fb08191071d06a23d7a8ee392ff84c9858cde34b7745949.m3u8",
-                        "https://epg.pw/stream/aa983b380af5e2ddf20506413fa4a11d20aff06af9605f87caeef96a787d942a.m3u8"
+                        "https://epg.pw/stream/aa983b380af5e2ddf20506413fa4a11d20aff06af9605f87caeef96a787d942a.m3u8",
+                        "https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8"
                     ]
                 },
                 {
@@ -825,8 +838,7 @@
                         "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
                         "http://pulltv1.wanfudaluye.com/live/tv1.m3u8",
                         "https://pulltv2.wanfudaluye.com/live/tv1.m3u8",
-                        "https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8",
-                        "https://epg.pw/stream/3e6fb92689e75821ff4c37049558b84928d94770ee62778e024fc6281005b1d7.m3u8"
+                        "https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8"
                     ]
                 },
                 {
@@ -948,7 +960,7 @@
                     "name": "翡翠台",
                     "tvg_name": "翡翠台",
                     "urls": [
-                        "http://r.jdshipin.com/qClQf",
+                        "https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv",
                         "https://epg.pw/stream/741027f74b9e31470fd3a824b96db4e3dab04f226e15ea01cba1076e48ad7960.ctv"
                     ]
                 },
@@ -992,7 +1004,8 @@
                     "tvg_name": "CHC家庭影院",
                     "urls": [
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
-                        "https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8"
+                        "https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8",
+                        "https://epg.pw/stream/1c91a5da3fe48a6966994d47247f7add73b6acd8dd8560a6f4a2d72156673b8c.m3u8"
                     ]
                 },
                 {
@@ -1080,8 +1093,8 @@
                 {
                     "name": "军旅剧场",
                     "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8",
                         "http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8",
                         "http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8",
                         "http://39.135.135.52:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8",
                         "http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8"
@@ -1278,8 +1291,8 @@
                     "name": "超级电影",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8",
-                        "http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8",
                         "http://39.134.66.4/PLTV/88888888/224/3221225644/index.m3u8",
+                        "http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8",
                         "http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8",
                         "http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8"
                     ]
@@ -1319,9 +1332,9 @@
                     "urls": [
                         "http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8",
                         "http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8",
                         "http://39.134.65.166/PLTV/88888888/224/3221225529/1.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225529/1.m3u8"
+                        "http://39.134.65.173/PLTV/88888888/224/3221225529/1.m3u8",
+                        "http://39.134.65.175/PLTV/88888888/224/3221225529/1.m3u8"
                     ]
                 },
                 {
@@ -1339,13 +1352,6 @@
         {
             "group": "SiTV",
             "channels": [
-                {
-                    "name": "七彩戏剧",
-                    "tvg_name": "七彩戏剧",
-                    "urls": [
-                        "https://bp-caster.bestv.com.cn/250/1/video.m3u8"
-                    ]
-                },
                 {
                     "name": "乐游",
                     "urls": [
