@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-01-24 17:17:24",
+    "updateTime": "2024-01-27 16:46:32",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -75,81 +75,68 @@
             "api": "http://47.113.126.237:1234/api.php/provide/vod/"
         },
         {
-            "key": "1518f801bfb34e5599614d0a176e46f9",
-            "name": "⑫️企鹅 ",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
-            "playUrl": "https://jxdp.codermart.net/?url="
-        },
-        {
             "key": "31597ad10cc5a818d578b91694259fe9",
-            "name": "⑬飘零",
+            "name": "⑫飘零",
             "type": 0,
             "api": "https://p2100.net/api.php/provide/vod/at/xml"
         },
         {
             "key": "559bf3ff82cf7be4b00328130c8e5262",
-            "name": "⑭万达",
+            "name": "⑬万达",
             "type": 1,
             "api": "http://www.duse.pro//api.php/provide/vod/"
         },
         {
             "key": "9700974b6464d2f0227d0f6abca45419",
-            "name": "⑮42",
+            "name": "⑭42",
             "type": 0,
             "api": "https://www.42.la/api.php/provide/vod/at/xml"
         },
         {
             "key": "e173267b0d7e1f1a1189c22c3bb7b556",
-            "name": "⑯淘片",
+            "name": "⑮淘片",
             "type": 0,
             "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
         },
         {
             "key": "eb5ea47565fd52372945b59cb5302f75",
-            "name": "⑰快云",
+            "name": "⑯快云",
             "type": 0,
             "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "f4703484b4963fcb1ceffd5275754f47",
-            "name": "⑱6U",
+            "name": "⑰6U",
             "type": 0,
             "api": "http://www.6uzy.cc/inc/api.php"
         },
         {
             "key": "28b71138ccfa2bab7197a504988e93ae",
-            "name": "⑲49",
+            "name": "⑱49",
             "type": 1,
             "api": "https://49zyw.com/api.php/provide/vod/"
         },
         {
             "key": "3bcf7fb89aa2f68696aeae9bab366739",
-            "name": "⑳四圈",
+            "name": "⑲四圈",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
         },
         {
             "key": "a93e240b86b123b432b61db56896f703",
-            "name": "㉑速博",
+            "name": "⑳速博",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod/"
         },
         {
             "key": "cdc25e368870d416a57c277767e084e0",
-            "name": "㉒至圣",
+            "name": "㉑至圣",
             "type": 1,
             "api": "http://82.156.40.118:1234/api.php/provide/vod/"
         },
         {
-            "key": "d76e6a4dd10a8e038439df2458b56e9d",
-            "name": "㉓极速",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "1da07dd492485c3c8a9eb089cd9e943a",
-            "name": "㉔天空",
+            "name": "㉒天空",
             "type": 1,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/"
         }
