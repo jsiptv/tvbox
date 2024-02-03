@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-01-28 15:13:09",
+    "updateTime": "2024-02-03 18:15:46",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -333,7 +333,8 @@
                         "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
                         "http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8",
                         "http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8",
-                        "http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8"
+                        "http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8",
+                        "http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8"
                     ]
                 },
                 {
@@ -454,7 +455,7 @@
                         "http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8",
                         "http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT",
                         "http://111.20.35.103:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00",
-                        "https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000"
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1625690606_1267463833/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1674377446&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3"
                     ]
                 },
                 {
@@ -488,6 +489,13 @@
                         "http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3",
                         "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "陕西卫视",
+                    "tvg_name": "陕西卫视",
+                    "urls": [
+                        "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8"
                     ]
                 },
                 {
@@ -534,9 +542,9 @@
                     "urls": [
                         "https://epg.pw/stream/06a550aef56b73393aa133292ab85e5b3d8bb25c9cd333708c727443341a4af4.m3u8",
                         "https://epg.pw/stream/94e9e6e88b70152a93489359eeb955393ef74d1410100db1ebb11657e7c02fd2.m3u8",
+                        "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8",
                         "http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8",
-                        "http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8"
+                        "http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8"
                     ]
                 },
                 {
@@ -763,6 +771,7 @@
                     "name": "CGTN Documentary",
                     "tvg_name": "CGTNDocumentary",
                     "urls": [
+                        "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
                         "https://epg.pw/stream/f50dfdd745664c613e645ca1b58f1969db073108c3776169d59eb1872b224e5b.m3u8",
                         "https://epg.pw/stream/2bfc905f45dc1e0e30b8cc52d27685af8bea8dd2497bfcf7f540ae0dbed2db60.m3u8"
                     ]
@@ -783,6 +792,8 @@
                     "name": "J2",
                     "tvg_name": "J2",
                     "urls": [
+                        "http://213.81.133.133:8080/jednotka/index.m3u8",
+                        "https://epg.pw/stream/222d0fb1ed17d09347d6abfc0c647e707dd628ef99d0f99d3a7b4d3816b2bc5b.m3u8",
                         "https://epg.pw/stream/187bd3e799d6ce4fa73fdbbe7c20c24ef21605886128cb7783eff420578d7d81.m3u8"
                     ]
                 },
@@ -849,6 +860,27 @@
                         "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8",
                         "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u",
                         "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+                    ]
+                },
+                {
+                    "name": "凤凰中文",
+                    "tvg_name": "凤凰中文",
+                    "urls": [
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8",
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8",
+                        "http://pi.0472.org/tv/cbn.php?id=xfjcHD",
+                        "http://110.81.206.138:50080/tsfile/live/23020_1.m3u8"
+                    ]
+                },
+                {
+                    "name": "凤凰资讯",
+                    "tvg_name": "凤凰资讯",
+                    "urls": [
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8",
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8",
+                        "http://110.81.206.138:50080/tsfile/live/23019_1.m3u8",
+                        "http://113.117.74.133:8081/hls/36/index.m3u8",
+                        "http://113.117.74.78:8081/hls/36/index.m3u8"
                     ]
                 },
                 {
@@ -949,9 +981,11 @@
                 {
                     "name": "澳视澳门",
                     "urls": [
+                        "https://pi.0472.org/tv/asam.php?auth=2310201855",
+                        "https://pi.0472.org/tv/asam.php?auth=231005",
+                        "https://pi.0472.org/tv/asam.php?auth=230927",
                         "http://61.244.22.5/ch1/ch1.live/playelist.m3u8",
-                        "http://61.244.22.5/ch1/ch1.live/playlist.m3u8",
-                        "http://61.244.22.5/ch1/ch1.live/index.m3u8"
+                        "http://61.244.22.5/ch1/ch1.live/playlist.m3u8"
                     ]
                 },
                 {
@@ -1005,6 +1039,13 @@
                     ]
                 },
                 {
+                    "name": "澳门莲花",
+                    "urls": [
+                        "http://lu1.cc/itv/gatv/lhws.php",
+                        "http://61.244.22.5/ch3/ch3.live/chunklist.m3u8"
+                    ]
+                },
+                {
                     "name": "澳门葡语",
                     "urls": [
                         "http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8"
@@ -1022,10 +1063,10 @@
                     "tvg_name": "翡翠台",
                     "urls": [
                         "https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv",
+                        "https://pi.0472.org/tv/fct.php?auth=231005",
+                        "https://pi.0472.org/tv/fct.php?auth=230927",
                         "https://epg.pw/stream/741027f74b9e31470fd3a824b96db4e3dab04f226e15ea01cba1076e48ad7960.ctv",
-                        "https://epg.pw/stream/bebd8628e37e6a4a8f7c99480eff96bcf8d18efcdee043a0643a042b5b367b25.ctv",
-                        "https://epg.pw/stream/d042107a04cb78dc7408e20302fe0935ddaa08d8af05c177a35a047b4b925936.m3u8",
-                        "https://epg.pw/stream/d5ce99b280b8b2e0be3571562b4649098e4e79032b0a7074edc604206a5467e8.m3u8"
+                        "https://epg.pw/stream/bebd8628e37e6a4a8f7c99480eff96bcf8d18efcdee043a0643a042b5b367b25.ctv"
                     ]
                 },
                 {
@@ -1069,7 +1110,9 @@
                     "urls": [
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8",
                         "https://epg.pw/stream/9f00fc4985b9fc052c04cbf5bc06476c6d12553d683786b8b172d1642332ec1c.m3u8",
-                        "https://epg.pw/stream/0f63565e62aa80f7239ee3a1920efc364cecb621a534e7406e2cd8f3a7d2bd22.m3u8"
+                        "https://epg.pw/stream/0f63565e62aa80f7239ee3a1920efc364cecb621a534e7406e2cd8f3a7d2bd22.m3u8",
+                        "http://zhuji.sdrnwl.cn:9901/tsfile/live/1060_1.m3u8",
+                        "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8"
                     ]
                 },
                 {
@@ -1078,7 +1121,9 @@
                     "urls": [
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
                         "https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8",
-                        "https://epg.pw/stream/1c91a5da3fe48a6966994d47247f7add73b6acd8dd8560a6f4a2d72156673b8c.m3u8"
+                        "https://epg.pw/stream/1c91a5da3fe48a6966994d47247f7add73b6acd8dd8560a6f4a2d72156673b8c.m3u8",
+                        "http://zhuji.sdrnwl.cn:9901/tsfile/live/1059_1.m3u8",
+                        "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8"
                     ]
                 },
                 {
@@ -1087,7 +1132,9 @@
                     "urls": [
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
                         "https://epg.pw/stream/d4703859b24d2e5efe98e722405d110e11df64ac629948839da9e86649648465.m3u8",
-                        "https://epg.pw/stream/968e9fed9676f8e2b7538c5a17dc32613bc1413c255c3c7f0bd04ee9f803a563.m3u8"
+                        "https://epg.pw/stream/968e9fed9676f8e2b7538c5a17dc32613bc1413c255c3c7f0bd04ee9f803a563.m3u8",
+                        "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8",
+                        "http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8"
                     ]
                 }
             ]
@@ -1100,7 +1147,8 @@
                     "tvg_name": "求索动物",
                     "urls": [
                         "http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8",
-                        "http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8"
+                        "http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3"
                     ]
                 },
                 {
@@ -1109,14 +1157,16 @@
                     "urls": [
                         "http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8",
                         "http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8",
-                        "http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8"
+                        "http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3"
                     ]
                 },
                 {
                     "name": "求索科学",
                     "tvg_name": "求索科学",
                     "urls": [
-                        "http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8"
+                        "http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3"
                     ]
                 },
                 {
@@ -1125,7 +1175,131 @@
                     "urls": [
                         "http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8",
                         "http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8",
-                        "http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8"
+                        "http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3"
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "iHOT",
+            "channels": [
+                {
+                    "name": "爱体育",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱历史",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱喜剧",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱奇谈",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱怀旧",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱悬疑",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱旅行",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱浪漫",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱玩具",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱电竞",
+                    "urls": [
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱科学",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱经典",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱谍战",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱赛车",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱都市",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱院线",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "爱青春",
+                    "urls": [
+                        "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3",
+                        "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3"
                     ]
                 }
             ]
@@ -1207,7 +1381,8 @@
                     "urls": [
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8",
                         "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8",
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8"
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8",
+                        "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8"
                     ]
                 },
                 {
@@ -1434,14 +1609,16 @@
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8",
                         "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
                         "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com",
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8"
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8",
+                        "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8"
                     ]
                 },
                 {
                     "name": "欢笑剧场",
                     "tvg_name": "欢笑剧场",
                     "urls": [
-                        "http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3"
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3",
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653121614_498192706/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1674379473&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3"
                     ]
                 },
                 {
@@ -1450,7 +1627,9 @@
                     "urls": [
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8",
                         "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8"
+                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8",
+                        "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8",
+                        "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8"
                     ]
                 },
                 {
