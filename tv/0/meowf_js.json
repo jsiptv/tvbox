@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-04-14 09:56:58",
+    "updateTime": "2024-04-19 10:00:03",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -361,11 +361,11 @@
                 {
                     "name": "大湾区卫视",
                     "urls": [
+                        "http://gmxw.7766.org:808/hls/132/index.m3u8",
                         "http://39.134.65.149/PLTV/88888888/224/3221226020/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8",
-                        "http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8",
-                        "https://www.coolapk.com/link?url=http%3A%2F%2F39.134.24.162%2Fdbiptv.sn.chinamobile.com%2FPLTV%2F88888890%2F224%2F3221226218%2Findex.m3u8"
+                        "http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8"
                     ]
                 },
                 {
