@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-05-01 19:05:14",
+    "updateTime": "2024-05-03 17:55:03",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -253,6 +253,8 @@
                     "name": "三沙卫视",
                     "tvg_name": "三沙卫视",
                     "urls": [
+                        "http://live.nctv.top/888/bst.php?id=sswshd8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=sswshd8m/8000000",
                         "http://61.138.128.226:19901/tsfile/live/1020_1.m3u8"
                     ]
                 },
@@ -283,10 +285,10 @@
                     "tvg_name": "云南卫视",
                     "urls": [
                         "http://fxgm.fxjf.work:19901/tsfile/live/0119_1.m3u8",
+                        "http://live.nctv.top/888/bst.php?id=ynwshd8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=ynwshd8m/8000000",
                         "http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8",
-                        "http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8",
-                        "http://39.134.65.151/PLTV/88888888/224/3221225957/1.m3u8",
-                        "http://39.134.65.147/PLTV/88888888/224/3221225957/1.m3u8"
+                        "http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8"
                     ]
                 },
                 {
@@ -296,7 +298,8 @@
                         "http://39.134.65.141/PLTV/88888888/224/3221226005/1.m3u8",
                         "http://39.134.65.151/PLTV/88888888/224/3221226005/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.112.205.198:5140"
+                        "http://1.83.163.43:8888/rtp/239.112.205.198:5140",
+                        "http://guany.myds.me:25852/udp/233.50.201.72:5140"
                     ]
                 },
                 {
@@ -353,9 +356,11 @@
                 {
                     "name": "大湾区卫视",
                     "urls": [
+                        "http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146",
                         "http://gmxw.7766.org:808/hls/132/index.m3u8",
                         "http://39.134.65.149/PLTV/88888888/224/3221226020/1.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8",
+                        "http://ddns.cyruslee.top:8888/udp/239.77.1.12:5146"
                     ]
                 },
                 {
@@ -479,6 +484,13 @@
                     ]
                 },
                 {
+                    "name": "星空卫视",
+                    "urls": [
+                        "http://live.nctv.top/888/gt.php?id=21",
+                        "http://wouu.net:9977/udp/239.93.0.156:2193"
+                    ]
+                },
+                {
                     "name": "江苏卫视",
                     "tvg_name": "江苏卫视",
                     "urls": [
@@ -495,9 +507,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
                         "http://183.204.13.237/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294103.m3u8",
+                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294103.m3u8",
                         "http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.16:5140",
-                        "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8"
+                        "http://1.83.163.43:8888/rtp/239.111.205.16:5140"
                     ]
                 },
                 {
@@ -582,10 +594,10 @@
                     "tvg_name": "甘肃卫视",
                     "urls": [
                         "http://gmxw.7766.org:808/hls/119/index.m3u8",
+                        "http://live.nctv.top/888/bst.php?id=gswshd8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=gswshd8m/8000000",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8",
-                        "http://39.134.65.134/PLTV/88888888/224/3221225584/1.m3u8",
-                        "http://39.134.65.132/PLTV/88888888/224/3221225584/1.m3u8",
-                        "http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8"
+                        "http://39.134.65.134/PLTV/88888888/224/3221225584/1.m3u8"
                     ]
                 },
                 {
@@ -637,10 +649,10 @@
                     "tvg_name": "陕西卫视",
                     "urls": [
                         "http://1.83.163.43:8888/rtp/239.111.205.35:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.76:9000",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8",
-                        "http://39.134.66.66/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225567/index.m3u8",
-                        "http://39.134.65.130/PLTV/88888888/224/3221225567/1.m3u8"
+                        "http://39.134.66.66/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225567/index.m3u8"
                     ]
                 },
                 {
@@ -661,8 +673,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8",
                         "http://183.204.13.237/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8",
-                        "http://58.220.219.14:9901/tsfile/live/0143_1.m3u8?key=txiptv",
-                        "http://1.83.163.43:8888/rtp/239.112.205.68:5140"
+                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8",
+                        "http://58.220.219.14:9901/tsfile/live/0143_1.m3u8?key=txiptv"
                     ]
                 }
             ]
@@ -689,7 +701,7 @@
                         "http://1.83.163.43:8888/rtp/239.112.205.213:5140",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8",
-                        "http://1.195.111.251:11190/tsfile/live/0011_1.m3u8"
+                        "http://live.nctv.top/888/bst.php?id=cctv11hd8m/8000000"
                     ]
                 },
                 {
@@ -879,7 +891,8 @@
                     "tvg_name": "世界地理",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.71:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.71:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.57:9000"
                     ]
                 },
                 {
@@ -887,7 +900,8 @@
                     "tvg_name": "兵器科技",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.74:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.74:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.59:9000"
                     ]
                 },
                 {
@@ -895,7 +909,8 @@
                     "tvg_name": "央视台球",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.70:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.70:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.58:9000"
                     ]
                 },
                 {
@@ -903,7 +918,8 @@
                     "tvg_name": "央视文化精品",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.75:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.75:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.56:9000"
                     ]
                 },
                 {
@@ -970,21 +986,30 @@
                     "name": "CHC动作电影",
                     "tvg_name": "CHC动作电影",
                     "urls": [
-                        "http://1.83.163.43:8888/rtp/239.112.205.207:5140"
+                        "http://1.83.163.43:8888/rtp/239.112.205.207:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.245.243:1234"
                     ]
                 },
                 {
                     "name": "CHC家庭影院",
                     "tvg_name": "CHC家庭影院",
                     "urls": [
-                        "http://1.83.163.43:8888/rtp/239.112.205.205:5140"
+                        "http://1.83.163.43:8888/rtp/239.112.205.205:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.245.241:1234"
                     ]
                 },
                 {
                     "name": "CHC高清电影",
                     "tvg_name": "CHC高清电影",
                     "urls": [
+                        "http://dms.yryyj.site:8188/udp/239.76.245.242:1234",
                         "http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "IPTV淘电影",
+                    "urls": [
+                        "http://218.241.192.50:8808/udp/239.3.1.250:8001"
                     ]
                 },
                 {
@@ -998,9 +1023,29 @@
                     ]
                 },
                 {
+                    "name": "华语影院",
+                    "urls": [
+                        "http://live.nctv.top/888/bestv.php?id=hyyy",
+                        "http://live.nctv.top/888/bst.php?id=hyyy8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=hyyy8m/8000000"
+                    ]
+                },
+                {
+                    "name": "星光影院",
+                    "urls": [
+                        "http://live.nctv.top/888/bestv.php?id=xgyy",
+                        "http://live.nctv.top/888/bst.php?id=xgyy8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=xgyy8m/8000000"
+                    ]
+                },
+                {
                     "name": "湖南电影",
                     "urls": [
-                        "http://222.241.154.37:9901/tsfile/live/23025_1.m3u8"
+                        "http://222.241.154.37:9901/tsfile/live/23025_1.m3u8",
+                        "http://www.yao87.com:4022/udp/239.76.253.106:9000",
+                        "http://www.yao87.com:4022/udp/239.76.252.119:9000",
+                        "http://www.yao87.com:4022/udp/239.76.246.106:1234",
+                        "http://www.yao87.com:4022/udp/239.76.245.119:1234"
                     ]
                 },
                 {
@@ -1029,6 +1074,22 @@
             "group": "电视剧",
             "channels": [
                 {
+                    "name": "深圳电视剧",
+                    "urls": [
+                        "http://ddns.cyruslee.top:8888/udp/239.77.1.177:5146"
+                    ]
+                },
+                {
+                    "name": "湖南电视剧",
+                    "urls": [
+                        "http://www.yao87.com:4022/udp/239.76.253.108:9000",
+                        "http://www.yao87.com:4022/udp/239.76.252.118:9000",
+                        "http://www.yao87.com:4022/udp/239.76.246.108:1234",
+                        "http://www.yao87.com:4022/udp/239.76.245.118:1234",
+                        "http://dms.yryyj.site:8188/udp/239.76.253.108:9000"
+                    ]
+                },
+                {
                     "name": "超级电视剧",
                     "urls": [
                         "http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8",
@@ -1043,6 +1104,14 @@
         {
             "group": "综艺",
             "channels": [
+                {
+                    "name": "热门综艺",
+                    "urls": [
+                        "http://live.nctv.top/888/bestv.php?id=rmzy",
+                        "http://live.nctv.top/888/bst.php?id=rmzy8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=rmzy8m/8000000"
+                    ]
+                },
                 {
                     "name": "超级综艺",
                     "urls": [
@@ -1077,6 +1146,29 @@
                         "http://39.134.65.173/PLTV/88888888/224/3221225559/1.m3u8",
                         "http://39.134.65.175/PLTV/88888888/224/3221225559/1.m3u8"
                     ]
+                },
+                {
+                    "name": "游戏风云",
+                    "tvg_name": "游戏风云",
+                    "urls": [
+                        "http://live.nctv.top/888/bestv.php?id=yxfy",
+                        "http://live.nctv.top/888/bst.php?id=yxfy8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=yxfy8m/8000000",
+                        "http://guany.myds.me:25852/udp/233.50.201.183:5140"
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "体育",
+            "channels": [
+                {
+                    "name": "五星体育",
+                    "urls": [
+                        "http://live.nctv.top/888/bestv.php?id=wxty",
+                        "http://live.nctv.top/888/bst.php?id=wxtyhd8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=wxtyhd8m/8000000"
+                    ]
                 }
             ]
         },
@@ -1095,9 +1187,30 @@
                 {
                     "name": "卡酷少儿",
                     "urls": [
+                        "http://live.nctv.top/888/bestv.php?id=bjkk",
+                        "http://live.nctv.top/888/bst.php?id=kkse8m/8000000",
+                        "http://live.nctv.top/888/bst1.php?id=kkse8m/8000000",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8",
-                        "http://39.134.66.170/PLTV/88888888/224/3221225562/index.m3u8",
-                        "http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8"
+                        "http://39.134.66.170/PLTV/88888888/224/3221225562/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "嘉佳卡通",
+                    "tvg_name": "嘉佳卡通",
+                    "urls": [
+                        "http://ddns.cyruslee.top:8888/udp/239.77.1.15:5146",
+                        "http://live.nctv.top/888/bestv.php?id=jjkt"
+                    ]
+                },
+                {
+                    "name": "金鹰卡通",
+                    "tvg_name": "金鹰卡通",
+                    "urls": [
+                        "http://www.yao87.com:4022/udp/239.76.253.107:9000",
+                        "http://www.yao87.com:4022/udp/239.76.252.120:9000",
+                        "http://www.yao87.com:4022/udp/239.76.246.107:1234",
+                        "http://www.yao87.com:4022/udp/239.76.245.120:1234",
+                        "http://live.nctv.top/888/bestv.php?id=jykt"
                     ]
                 },
                 {
@@ -1119,24 +1232,41 @@
                     "name": "凤凰中文",
                     "tvg_name": "凤凰中文",
                     "urls": [
-                        "http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8",
-                        "http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8",
-                        "http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8"
+                        "http://live.nctv.top/888/gt.php?id=2",
+                        "http://113.64.145.34:8081/hls/37/index.m3u8",
+                        "http://113.64.145.55:8081/hls/37/index.m3u8",
+                        "http://112.19.171.156:9999/udp/239.93.0.162:2192",
+                        "http://nas.jumping.wang:5555/rtp/239.93.0.162:2192"
                     ]
                 },
                 {
                     "name": "凤凰资讯",
                     "tvg_name": "凤凰资讯",
                     "urls": [
-                        "http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8",
-                        "http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8"
+                        "http://live.nctv.top/888/gt.php?id=1",
+                        "http://113.64.145.34:8081/hls/36/index.m3u8",
+                        "http://113.64.145.55:8081/hls/36/index.m3u8",
+                        "http://113.64.145.86:8081/hls/36/index.m3u8",
+                        "http://113.64.145.91:8081/hls/36/index.m3u8"
                     ]
                 },
                 {
                     "name": "凤凰香港",
                     "urls": [
                         "http://103.95.24.37:880/fhxgt.m3u8",
+                        "http://live.nctv.top/888/gt.php?id=3",
+                        "http://113.64.145.34:8081/hls/38/index.m3u8",
+                        "http://113.64.145.55:8081/hls/38/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8"
+                    ]
+                },
+                {
+                    "name": "无线新闻",
+                    "urls": [
+                        "http://live.nctv.top/888/tw.php?id=1",
+                        "http://170.178.177.98:27347/livehttpplay?channel_id=30024",
+                        "http://170.178.177.98:27347/livehttpplay?channel_id=20123",
+                        "http://137.175.30.127:9080/hls/inews.m3u8"
                     ]
                 }
             ]
