@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-05-03 17:55:03",
+    "updateTime": "2024-05-04 11:47:38",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -295,11 +295,11 @@
                     "name": "兵团卫视",
                     "tvg_name": "兵团卫视",
                     "urls": [
+                        "http://183.204.13.13/1.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8",
                         "http://39.134.65.141/PLTV/88888888/224/3221226005/1.m3u8",
                         "http://39.134.65.151/PLTV/88888888/224/3221226005/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.112.205.198:5140",
-                        "http://guany.myds.me:25852/udp/233.50.201.72:5140"
+                        "http://1.83.163.43:8888/rtp/239.112.205.198:5140"
                     ]
                 },
                 {
@@ -478,9 +478,9 @@
                     "urls": [
                         "http://106.124.91.222:9901/tsfile/live/21212_1.m3u8",
                         "http://113.12.72.152:9901/tsfile/live/1036_1.m3u8",
+                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8",
-                        "http://39.134.65.132/PLTV/88888888/224/3221225582/1.m3u8",
-                        "http://39.134.65.149/PLTV/88888888/224/3221225999/1.m3u8"
+                        "http://39.134.65.132/PLTV/88888888/224/3221225582/1.m3u8"
                     ]
                 },
                 {
@@ -950,7 +950,8 @@
                     "tvg_name": "第一剧场",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.65:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.65:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.49:9000"
                     ]
                 },
                 {
@@ -958,7 +959,8 @@
                     "tvg_name": "风云剧场",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.66:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.66:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.50:9000"
                     ]
                 },
                 {
@@ -966,7 +968,8 @@
                     "tvg_name": "风云足球",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.68:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.68:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.52:9000"
                     ]
                 },
                 {
@@ -974,7 +977,8 @@
                     "tvg_name": "风云音乐",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.111.205.69:5140"
+                        "http://1.83.163.43:8888/rtp/239.111.205.69:5140",
+                        "http://dms.yryyj.site:8188/udp/239.76.254.51:9000"
                     ]
                 }
             ]
@@ -1007,12 +1011,6 @@
                     ]
                 },
                 {
-                    "name": "IPTV淘电影",
-                    "urls": [
-                        "http://218.241.192.50:8808/udp/239.3.1.250:8001"
-                    ]
-                },
-                {
                     "name": "动作电影",
                     "urls": [
                         "http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8",
@@ -1036,6 +1034,13 @@
                         "http://live.nctv.top/888/bestv.php?id=xgyy",
                         "http://live.nctv.top/888/bst.php?id=xgyy8m/8000000",
                         "http://live.nctv.top/888/bst1.php?id=xgyy8m/8000000"
+                    ]
+                },
+                {
+                    "name": "淘电影",
+                    "urls": [
+                        "http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001",
+                        "http://218.241.192.50:8808/udp/239.3.1.250:8001"
                     ]
                 },
                 {
