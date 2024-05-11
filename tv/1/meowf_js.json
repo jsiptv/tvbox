@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-05-07 19:42:50",
+    "updateTime": "2024-05-11 11:44:01",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -390,7 +390,7 @@
                         "http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8",
-                        "http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8"
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/35/live.m3u8"
                     ]
                 },
                 {
@@ -412,7 +412,7 @@
                         "http://39.134.66.163/PLTV/88888888/224/3221225966/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8",
-                        "http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8"
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/28/live.m3u8"
                     ]
                 },
                 {
@@ -494,9 +494,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/37/live.m3u8",
                         "http://115.149.139.141:10001/tsfile/live/1033_1.m3u8",
-                        "http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8",
-                        "http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv"
+                        "http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8"
                     ]
                 },
                 {
@@ -528,8 +528,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
                         "http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8",
-                        "http://gmxw.7766.org:808/hls/124/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8"
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/19/live.m3u8",
+                        "http://gmxw.7766.org:808/hls/124/index.m3u8"
                     ]
                 },
                 {
@@ -604,9 +604,9 @@
                     "urls": [
                         "http://115.149.139.141:10001/tsfile/live/1028_1.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000281303.m3u8",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/38/live.m3u8",
                         "http://111.160.17.2:59901/tsfile/live/0121_1.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
-                        "http://123.163.55.234:9901/tsfile/live/0121_1.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
                     ]
                 },
                 {
@@ -649,8 +649,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8",
                         "http://183.204.13.237/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8",
-                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8",
-                        "http://58.220.219.14:9901/tsfile/live/0143_1.m3u8?key=txiptv"
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/33/live.m3u8",
+                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8"
                     ]
                 }
             ]
@@ -674,10 +674,10 @@
                     "tvg_name": "CCTV11",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/12/live.m3u8",
+                        "http://111.160.17.2:59901/tsfile/live/0011_1.m3u8",
                         "http://1.83.163.43:8888/rtp/239.112.205.213:5140",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8",
-                        "http://live.nctv.top/888/bst.php?id=cctv11hd8m/8000000"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
                     ]
                 },
                 {
@@ -718,10 +718,10 @@
                     "tvg_name": "CCTV15",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/16/live.m3u8",
+                        "http://111.160.17.2:59901/tsfile/live/0015_1.m3u8",
                         "http://1.195.111.251:11190/tsfile/live/0015_1.m3u8",
-                        "http://1.83.163.43:8888/rtp/239.112.205.214:5140",
-                        "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+                        "http://1.83.163.43:8888/rtp/239.112.205.214:5140"
                     ]
                 },
                 {
@@ -927,7 +927,8 @@
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8",
                         "http://1.83.163.43:8888/rtp/239.111.205.65:5140",
-                        "http://dms.yryyj.site:8188/udp/239.76.254.49:9000"
+                        "http://dms.yryyj.site:8188/udp/239.76.254.49:9000",
+                        "http://60.2.190.206:4000/rtp/239.253.92.18:6079"
                     ]
                 },
                 {
@@ -936,7 +937,8 @@
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8",
                         "http://1.83.163.43:8888/rtp/239.111.205.66:5140",
-                        "http://dms.yryyj.site:8188/udp/239.76.254.50:9000"
+                        "http://dms.yryyj.site:8188/udp/239.76.254.50:9000",
+                        "http://60.2.190.206:4000/rtp/239.253.92.22:6073"
                     ]
                 },
                 {
