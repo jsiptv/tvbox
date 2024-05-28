@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-05-18 16:51:05",
+    "updateTime": "2024-05-28 20:55:07",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -102,8 +102,7 @@
             "key": "331594be1fa27287d42aef692b81fbd8",
             "name": "⑯1080",
             "type": 1,
-            "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
-            "playUrl": "https://vip.zykbf.com/?url="
+            "api": "https://api.1080zyku.com/inc/apijson.php?ac=list"
         },
         {
             "key": "3571da613493ac63a65bd2fd2bbc4712",
@@ -148,75 +147,57 @@
             "api": "https://bfzyapi.com/api.php/provide/vod/at/xml"
         },
         {
-            "key": "edc3f4a6d76dcb2ae7d7ee4bf806cfbd",
-            "name": "㉔49",
-            "type": 0,
-            "api": "https://49zyw.com/api.php/provide/vod/at/xml"
-        },
-        {
             "key": "f1c74641510fb9d80b159427337c34cc",
-            "name": "㉕天空",
+            "name": "㉔天空",
             "type": 0,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "f6938ae0ad85f4907983945a086626f9",
-            "name": "㉖1080",
+            "name": "㉕1080",
             "type": 0,
             "api": "https://api.1080zyku.com/inc/api.php"
         },
         {
             "key": "ff3ce0548cdd8c0c6f0df838f2660755",
-            "name": "㉗绿色",
+            "name": "㉖绿色",
             "type": 1,
             "api": "https://www.wolongzyw.com/api.php/provide/vod/",
             "filterable": 0
         },
         {
             "key": "0aa232d09290b410177086af0c6dda47",
-            "name": "㉘约爱",
+            "name": "㉗约爱",
             "type": 1,
             "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/"
         },
         {
-            "key": "548c69066731916a1611dacb0e3b452c",
-            "name": "㉙量子",
-            "type": 1,
-            "api": "https://lzizy8.com/api.php/provide/vod/"
-        },
-        {
             "key": "16cfe5fb43282cd0609786037845f50b",
-            "name": "㉚无尽",
+            "name": "㉘无尽",
             "type": 1,
             "api": "https://api.wujinapi.net/api.php/provide/vod/"
         },
         {
             "key": "e173267b0d7e1f1a1189c22c3bb7b556",
-            "name": "㉛淘片",
+            "name": "㉙淘片",
             "type": 0,
             "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
         },
         {
-            "key": "28b71138ccfa2bab7197a504988e93ae",
-            "name": "㉜49",
-            "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/"
-        },
-        {
             "key": "ef2505a9c9136b6c49825e59654ab605",
-            "name": "㉝飞速",
+            "name": "㉚飞速",
             "type": 1,
             "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "1da07dd492485c3c8a9eb089cd9e943a",
-            "name": "㉞天空",
+            "name": "㉛天空",
             "type": 1,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/"
         },
         {
             "key": "992ae5cbb1c5c2b16e7d2858d94a9384",
-            "name": "㉟1080",
+            "name": "㉜1080",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/api_mac10.php"
         }
@@ -241,8 +222,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
                         "http://39.134.66.4/PLTV/88888888/224/3221225950/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292503.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.33:8033",
-                        "http://mail.petzhu.top:7000/rtp/239.254.201.13:6291"
+                        "http://111.230.30.193/php/lyd.php?id=6341",
+                        "http://110.178.52.190:8085/udp/239.1.1.33:8033"
                     ]
                 },
                 {
@@ -325,8 +306,8 @@
                         "http://39.134.67.110/PLTV/88888888/224/3221225970/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295003.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.29:8029",
-                        "http://mail.petzhu.top:7000/rtp/239.254.200.202:6325"
+                        "http://111.230.30.193/php/lyd.php?id=6338",
+                        "http://110.178.52.190:8085/udp/239.1.1.29:8029"
                     ]
                 },
                 {
@@ -336,7 +317,7 @@
                         "http://gmxw.7766.org:808/hls/132/index.m3u8",
                         "http://39.134.65.149/PLTV/88888888/224/3221226020/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.69:8069"
+                        "http://111.230.30.193/php/lyd.php?id=6442"
                     ]
                 },
                 {
@@ -379,7 +360,7 @@
                         "http://39.134.65.143/PLTV/88888888/224/3221225925/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298003.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.44:8044"
+                        "http://111.230.30.193/php/lyd.php?id=6391"
                     ]
                 },
                 {
@@ -389,8 +370,8 @@
                         "http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8",
                         "http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8",
-                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.47:8047"
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/35/live.m3u8",
+                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8"
                     ]
                 },
                 {
@@ -411,8 +392,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8",
                         "http://39.134.66.163/PLTV/88888888/224/3221225966/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8",
-                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.49:8049"
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/28/live.m3u8",
+                        "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8"
                     ]
                 },
                 {
@@ -420,10 +401,10 @@
                     "tvg_name": "广西卫视",
                     "urls": [
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8",
+                        "http://111.230.30.193/php/lyd.php?id=6549",
                         "http://mail.petzhu.top:7000/rtp/239.254.200.80:8300",
                         "http://60.27.20.217:4022/rtp/225.1.2.81:5002",
-                        "http://60.2.190.206:4000/rtp/239.253.92.76:8043",
-                        "http://115.149.139.141:10001/tsfile/live/1037_1.m3u8"
+                        "http://60.2.190.206:4000/rtp/239.253.92.76:8043"
                     ]
                 },
                 {
@@ -483,9 +464,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
                         "http://183.204.13.237/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294103.m3u8",
+                        "http://111.230.30.193/php/lyd.php?id=6344",
                         "http://110.178.52.190:8085/udp/239.1.1.52:8052",
-                        "http://114.249.18.134:4022/rtp/239.3.1.123:8164",
-                        "http://mail.petzhu.top:7000/rtp/239.254.201.12:6290"
+                        "http://114.249.18.134:4022/rtp/239.3.1.123:8164"
                     ]
                 },
                 {
@@ -493,10 +474,10 @@
                     "tvg_name": "河北卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/37/live.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8",
                         "http://110.178.52.190:8085/udp/239.1.1.48:8048",
-                        "http://58.220.219.14:9901/tsfile/live/0117_1.m3u8",
-                        "http://60.27.20.217:4022/rtp/225.1.2.27:5002"
+                        "http://58.220.219.14:9901/tsfile/live/0117_1.m3u8"
                     ]
                 },
                 {
@@ -506,8 +487,8 @@
                         "http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296103.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.34:8034",
-                        "http://mail.petzhu.top:7000/rtp/239.254.201.16:7174"
+                        "http://111.230.30.193/php/lyd.php?id=6480",
+                        "http://110.178.52.190:8085/udp/239.1.1.34:8034"
                     ]
                 },
                 {
@@ -527,9 +508,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
                         "http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/19/live.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8",
-                        "http://mail.petzhu.top:7000/rtp/239.254.201.125:6288",
-                        "http://60.27.20.217:4022/rtp/225.1.2.82:5002"
+                        "http://111.230.30.193/php/lyd.php?id=6465"
                     ]
                 },
                 {
@@ -602,11 +583,11 @@
                     "name": "辽宁卫视",
                     "tvg_name": "辽宁卫视",
                     "urls": [
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/38/live.m3u8",
                         "http://115.149.139.141:10001/tsfile/live/1028_1.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000281303.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.42:8042",
-                        "http://114.249.18.134:4022/rtp/239.3.1.210:8056",
-                        "http://mail.petzhu.top:7000/rtp/239.254.200.57:8056"
+                        "http://111.230.30.193/php/lyd.php?id=6546",
+                        "http://110.178.52.190:8085/udp/239.1.1.42:8042"
                     ]
                 },
                 {
@@ -617,7 +598,7 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8",
                         "https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000297803.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.36:8036"
+                        "http://111.230.30.193/php/lyd.php?id=6409"
                     ]
                 },
                 {
@@ -648,9 +629,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8",
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/33/live.m3u8",
                         "http://183.204.13.237/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8",
-                        "http://110.178.52.190:8085/udp/239.1.1.37:8037",
-                        "http://114.249.18.134:4022/rtp/239.3.1.133:8016"
+                        "http://110.178.52.190:8085/udp/239.1.1.37:8037"
                     ]
                 }
             ]
@@ -673,11 +654,11 @@
                     "name": "CCTV-11戏曲",
                     "tvg_name": "CCTV11",
                     "urls": [
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/12/live.m3u8",
+                        "http://111.160.17.2:59901/tsfile/live/0011_1.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8",
-                        "http://mail.petzhu.top:7000/rtp/239.254.201.123:8120",
-                        "http://60.27.20.217:4022/rtp/225.1.2.192:5002",
-                        "http://60.2.190.206:4000/rtp/239.253.93.153:6321",
-                        "http://1304.hsmedia.top:8080/newlive/live/hls/12/live.m3u8"
+                        "http://111.230.30.193/php/lyd.php?id=6565",
+                        "http://mail.petzhu.top:7000/rtp/239.254.201.123:8120"
                     ]
                 },
                 {
@@ -717,11 +698,11 @@
                     "name": "CCTV-15音乐",
                     "tvg_name": "CCTV15",
                     "urls": [
+                        "http://1304.hsmedia.top:8080/newlive/live/hls/16/live.m3u8",
+                        "http://111.160.17.2:59901/tsfile/live/0015_1.m3u8",
                         "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8",
-                        "http://mail.petzhu.top:7000/rtp/239.254.201.124:8136",
-                        "http://60.27.20.217:4022/rtp/225.1.2.194:5002",
-                        "http://60.2.190.206:4000/rtp/239.253.93.154:6322",
-                        "http://1304.hsmedia.top:8080/newlive/live/hls/16/live.m3u8"
+                        "http://111.230.30.193/php/lyd.php?id=6476",
+                        "http://mail.petzhu.top:7000/rtp/239.254.201.124:8136"
                     ]
                 },
                 {
@@ -1266,7 +1247,7 @@
                         "http://live.nctv.top/888/gt.php?id=3",
                         "http://113.64.145.34:8081/hls/38/index.m3u8",
                         "http://113.64.145.55:8081/hls/38/index.m3u8",
-                        "http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8"
+                        "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8"
                     ]
                 },
                 {
@@ -1316,77 +1297,47 @@
         {
             "name": "解析1.3",
             "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=309258&key=jmoruvzDFNRSTV0156&url="
+            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=bhnoprvyzBMNOQTY19&url="
         },
         {
             "name": "解析1.4",
             "type": 1,
-            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=bhnoprvyzBMNOQTY19&url="
+            "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
         },
         {
             "name": "解析1.5",
             "type": 1,
-            "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
+            "url": "http://119.91.123.253:2345/Api/yun.php?url="
         },
         {
             "name": "解析1.6",
             "type": 1,
-            "url": "http://119.91.123.253:2345/Api/yun.php?url="
+            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
         },
         {
             "name": "解析1.7",
             "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=abdfjqvwyCFKNOVXZ4&url="
+            "url": "https://api.cygc.xyz/video.php?url="
         },
         {
             "name": "解析1.8",
             "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+            "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
         },
         {
             "name": "解析1.9",
             "type": 1,
-            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
+            "url": "https://vip.xiaomaomi.tv/api.php?key=cjmwyIJLNRSWZ04689&url="
         },
         {
             "name": "解析1.10",
             "type": 1,
-            "url": "https://api.cygc.xyz/video.php?url="
+            "url": "http://jiexi.kudian6.com/pzjx/zz.php?url="
         },
         {
             "name": "解析1.11",
             "type": 1,
-            "url": "http://198.16.32.195/json/?url="
-        },
-        {
-            "name": "解析1.12",
-            "type": 1,
-            "url": "https://bf.ppjbk.cn/?url="
-        },
-        {
-            "name": "解析1.13",
-            "type": 1,
-            "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
-        },
-        {
-            "name": "解析1.14",
-            "type": 1,
-            "url": "https://vip.xiaomaomi.tv/api.php?key=cjmwyIJLNRSWZ04689&url="
-        },
-        {
-            "name": "解析1.15",
-            "type": 1,
-            "url": "http://jiexi.kudian6.com/pzjx/zz.php?url="
-        },
-        {
-            "name": "解析1.16",
-            "type": 1,
             "url": "http://ku.renrenmi.cc/api/?key=PhHW95uatpNjHOeVbj&url="
-        },
-        {
-            "name": "解析1.17",
-            "type": 1,
-            "url": "http://svip.nfjx.xyz/api/?key=wbbgCgezulNGcZVHc1&url="
         }
     ],
     "ijk": [
